@@ -19,17 +19,6 @@ IT professional specializing in healthcare EDI integrations and enterprise cloud
 - Azure, GCP, AWS.[2]
 
 ### 📦 Featured Projects
-- Jobsite  
-  - A job listing utility aimed at surfacing and updating application links when new roles are posted, aligning with automation ideas explored for dynamic job feeds and notification workflows.[1]
-  - Potential stack fit: backend scrapers/APIs with scheduled jobs, link validation, and a UI for browsing/updating listings.[1]
-
-- kids  
-  - Sandbox/learning repo; likely features small web or scripting experiments, useful for showcasing fundamentals and iteration on front-end skills.[1]
-  - Good candidate to add a README with goals, stack, and demo screenshots to improve discoverability.[1]
-
-- CareerIn  
-  - Portfolio/career site or job-tracking tool concept, potentially tying into the Jobsite automation ideas for search, filters, and application status.[1]
-  - Consider integrating CI for link checks and Lighthouse audits to keep the project production-ready.[1]
 
 - dev (fork)  
   - Fork of github/dev used as a developer workspace or template; ideal for experimenting with GitHub Codespaces and the “press . key” web editor workflow for quick edits.[1]
