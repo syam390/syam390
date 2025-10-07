@@ -1,5 +1,5 @@
  👋 Hi, I'm Syam Kumar
-IT professional specializing in healthcare EDI integrations and enterprise cloud telephony, with hands-on experience in HIPAA-compliant data flows, EMR/EHR ecosystems, and large-scale VoIP operations using Vonage VBC/VCC.[2]
+IT professional specializing in healthcare EDI integrations and enterprise cloud telephony, with hands-on experience in HIPAA-compliant data flows, EMR/EHR ecosystems, and large-scale VoIP operations using Vonage VBC/VCC.
 
 - Drive reliability through incident response, RCA, SOPs, and API-led automation in regulated environments.
 - Experienced across HL7/EDI 837/835, SFTP pipelines, SIP/RTP troubleshooting, IVR, and PBX→VoIP migrations.
